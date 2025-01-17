@@ -1,2 +1,2 @@
 # Crush
-This is my first trial under which iam checking how this is working
+This is my first trial in which I'm checking how this is working
